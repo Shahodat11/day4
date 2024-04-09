@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.nav-link1{
+    display: flex;
+}
+
+.nav1{
+    padding-left: 20px;
+}
+
+.nav1 h2{
+    width: 610px;
+    height: 119px;
+    top: 190px;
+    left: 100px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: "Exo 2";
+    font-size: 52px;
+    font-weight: 600;
+    line-height: 65px;
+    text-align: left;
+    color: #363738;
+    padding-top: 100px;
+}
+
+.nav1 p{
+    width: 525px;
+    height: 66px;
+    top: 349px;
+    left: 100px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: "PT Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #6B6B6C;
+    padding-top: 120px;
+}
+
+.img{
+    padding-top: 80px;
+}
+
+.img1{
+    text-align: right;
+    justify-content: end;
+    align-items: end;
+    padding-left: 90px;
+}

@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+
+.nav-link{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav{
+    padding: 25px;
+}
+
+.nav2 ul{
+    display: flex;
+    gap: 40px;
+}
+
+.nav2 ul li{
+    list-style: none;
+}
+
+.nav2 ul li a {
+    font-family: Exo 2;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22.5px;
+    text-align: left;
+    text-align: center;
+    font-family: "Exo 2";
+    font-style: normal;
+    text-decoration: none;
+    list-style: none;
+    transition: all .2s linear;
+    color: #000000;
+}
+
+.nav2 ul li a:hover{
+    color: #0B7572;
+}
